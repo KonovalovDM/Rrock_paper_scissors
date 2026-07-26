@@ -18,7 +18,7 @@ python game.py
 \`\`\`
 
 ## Автор
-Ваше имя" > README.md
+"Dmitriy" > README.md
 
 # Проверяем содержимое
 cat README.md
