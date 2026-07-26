@@ -1,0 +1,20 @@
+{
+  "user_score": 2,
+  "computer_score": 0,
+  "draws": 0,
+  "rounds_played": 2,
+  "history": [
+    {
+      "round": 1,
+      "winner": "user",
+      "timestamp": "2026-07-26T22:05:27.925050"
+    },
+    {
+      "round": 2,
+      "winner": "user",
+      "timestamp": "2026-07-26T22:05:37.820764"
+    }
+  ],
+  "last_updated": "2026-07-26T22:05:55.653479",
+  "previous_games": []
+}
